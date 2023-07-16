@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&family=Roboto:wght@500&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+#header
+{
+    padding:1pc 16pc;
+    color: white;
+}
+.com
+{
+    cursor: pointer;
+}
+.fav
+{
+    display: flex;
+    align-items: center;
+    width: 100px;
+}
+.span
+{
+    margin: 0px 10px;
+}
+.heart
+{
+    margin: 0px 20px;
+}
+button:hover
+{
+    background-color:antiquewhite;
+}
+.discount
+{
+    margin-bottom: 20pc;
+    
+}
+.ul
+{
+    margin: 0px 15px;
+}
+.categories
+{
+    padding: 10px;
+    
+}
+.category
+{
+    border: 2px solid;
+}
+.category:hover
+{
+    color: black;
+    border: 3px solid black;
+    background-color: antiquewhite;
+}
+button
+{
+    background-color: white;
+}
+.para
+{
+    margin-top: 7pc;
+    margin-left: 10pc;
+}
+.one{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+.two, .three, .four
+{
+    font-size: 60px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+.pro
+{
+    font-size: 30px;
+    font-weight: 800;
+    padding-left: 10pc;
+}
+.buc
+{
+    margin-left: 10pc;
+    cursor: pointer;
+}
+.our
+{
+    font-size: 30px;
+    font-weight: 800;
+    padding-left: 43pc;
+    padding-top: 2pc;
+}
+.dif
+{
+    margin-top: 14px;
+    margin-bottom: 30px;
+}
+.hii
+{
+    display: inline-block;
+    margin-left: 20px;
+}
+.new
+{
+    font-size: 30px;
+    margin-bottom: 5px;
+    padding: 0;
+    display: inline-block;
+    white-space: nowrap;
+}
+.nice
+{
+    margin-right: 140px;
+}
+.wow
+{
+    margin-left: 8pc;
+}
+.now
+{
+    margin-bottom: 40px;
+}
+.last
+{
+    border: 2px solid black;
+    padding-right: 10px;
+}
+.last:hover
+{
+    background-color: antiquewhite;
+}
+.about{
+    margin: 8px 0px;
+    cursor: pointer;
+}
+.paragraph
+{
+    list-style-type: none;
+    cursor: pointer;
+}
+.par
+{
+    margin-left: 2pc;
+    cursor: pointer;
+}
+.icon
+{
+    cursor: pointer;
+}
+.why
+{
+    margin-top: 15px;
+    display: inline-block;
+    white-space: nowrap;
+}
+.click
+{
+    display: inline-block;
+}
+.butt
+{
+    margin-top: 10px;
+    margin-right: 19pc;
+}
+.butto
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10pc;
+}
